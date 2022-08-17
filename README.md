@@ -11,7 +11,7 @@
 #### Stack:
 - Frontend: React
 - Backend: Node.js + Express
-- Databas: SQLite
+- Database: SQLite
 - Security: JWT, Bcrypt
 
 #### APIs: 
